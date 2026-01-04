@@ -50,6 +50,7 @@ Home and away context is intentionally de-emphasized due to its limited relevanc
 ├── app.py                 # Streamlit app
 ├── requirements.txt       # Python dependencies
 ├── logreg_model.pkl       # Trained logistic regression model
+├── results.cvs            # Main database used International football results from 1872 to 2025
 ├── team_stats.csv         # Team-level stats
 ├── notebook.ipynb         # Colab notebook for EDA and modeling
 └── README.md              # This file
